@@ -10,8 +10,8 @@ HTML, CSS and JavaScript
 
 ## Visit Website
 
- - [https://abhishekmahajan3711.github.io/MyFirstWebsite/](https://abhishekmahajan3711.github.io/MyFirstWebsite/)
+ - [https://abhishekmahajan3711.github.io/DrumKit/](https://abhishekmahajan3711.github.io/DrumKit/)
 
 ## Output 
-![image](images/MiniProject-4.png)
+![image](images/HomePage.png)
 
